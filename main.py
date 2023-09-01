@@ -1,5 +1,4 @@
-from src.text_summarizer import logging
+from src.text_summerizer.logging import logger
 
+logger.info("welcome to custom log")
 
-
-Logger.info("welcome to custom log")
